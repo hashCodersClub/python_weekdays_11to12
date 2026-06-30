@@ -12,8 +12,8 @@
 - group of inter-related modules
 - folder or directory or location or path
 
-# Project :
+# Project : root level package
 
-# Library
+# Library : package
 
-# Framework :
+# Framework : package
